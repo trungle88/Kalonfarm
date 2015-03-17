@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'fontawesome';
+  src: url('fontawesome.eot'); /* IE9 Compat Modes */
+  src: url('fontawesome.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fontawesome.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fontawesome.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fontawesome.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fontawesome.svg#fontawesome') format('svg'); /* Legacy iOS */
+	   font-style:normal;
+	   font-weight:normal;
+}
+@font-face {
+  font-family: 'compctab';
+  src: url('compctab.eot'); /* IE9 Compat Modes */
+  src: url('compctab.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('compctab.woff2') format('woff2'), /* Super Modern Browsers */
+       url('compctab.woff') format('woff'), /* Pretty Modern Browsers */
+       url('compctab.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('compctab.svg#compctab') format('svg'); /* Legacy iOS */
+	   font-style:normal;
+	   font-weight:normal;
+}
